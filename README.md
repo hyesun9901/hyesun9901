@@ -49,9 +49,6 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-<a href="https://github.com/hyesun9901">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hyesun9901&theme=cobalt"/>
-</a>
 </div>
 
 
