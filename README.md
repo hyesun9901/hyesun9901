@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 
 <div align = center> <h2> 💖 Developer 💖 </h2>
-<a><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJ-S2&count_bg=%23FD98EC&title_bg=%23D796F9&icon=&icon_color=%23E7E7E7&title=HeLLo&edge_flat=false"/></a>
 </br>
 </br>
 <a href="https://github.com/hyesun9901">
