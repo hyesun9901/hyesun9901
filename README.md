@@ -36,18 +36,6 @@ Here are some ideas to get you started:
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=hyesun9901&theme=omni&hide=contribs,issues"/>
 </a>
 
-<h3>💻 ~ing </h3>
-</br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-
-</br>
-</br>
-</br>
 
 </div>
 
