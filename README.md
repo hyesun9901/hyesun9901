@@ -27,16 +27,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-<div align = center> <h2> 💖 Developer 💖 </h2>
-</br>
-</br>
-<a href="https://github.com/hyesun9901">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=hyesun9901&theme=omni&hide=contribs,issues"/>
-</a>
-
-
-</div>
-
-
