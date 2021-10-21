@@ -23,8 +23,24 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp </p>
 
+:wave: Hello 
 
+### :bulb: Current Interests
+- Computer Vision
+- Semi Supervised Learning for Classification, Detection, Segmentation
+- Generative Model
+- Various ideas (If you have any research or project you want to share with me, please contact me!)
 
+### :purple_heart: Career
 
-
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2014. 3 ~ 2020. 2 | Department of Mathematics, Software | ** University** |
+| **Research activities** | 2018. 12 ~ 2019. 6 |  | ** Univ. ** |
+| **External activities** | 2019. 6 ~ 8 |  | **EndorFin** |
+| **Research activities** | 2020. 1 ~ 7 | Team leader of Mevia, 6th Open-Lab | **Korea ** |
+| **:office:Employment** | 2020. 5 ~ 2021. 5 | | **** |
+| **External activities** | 2020. 10 ~ 2021. 1 |  | ** ** |
+| **Research activities** | 2021. 1 ~ 4 |  | **  ** |
+| **:office:Employment** | 2021. 6 ~ |  Engineer | **** |
 
