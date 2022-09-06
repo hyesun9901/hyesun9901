@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </br>
 <h3 align="center"><b>👤 My Profile 👤<b></h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%9C%EC%84%A0-%EC%A0%95-20733224a"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%ED%98%9C%EC%84%A0-%EC%A0%95-20733224a/"/></a>
   <img src="https://img.shields.io/badge/E Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
