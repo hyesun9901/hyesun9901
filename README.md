@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=hyesun9901@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://sunny-develop.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/hyesun_develop_Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
