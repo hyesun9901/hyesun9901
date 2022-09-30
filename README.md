@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
 </br>
-<h3 align="center"><b>👤 Contact Me 👤<b></h3>
+<h3 align="center"><b>👤 Contact Me❤️‍🔥 👤<b></h3>
 <div align="center">
   <a href ="https://www.linkedin.com/in/%ED%98%9C%EC%84%A0-%EC%A0%95-20733224a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/>
