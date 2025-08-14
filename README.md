@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </br>
 <h3 align="center"><b>⚙ IDE ⚙</b></h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/cplusplusbuilder-00599C?style=flat&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cplusplusbuilder-E62431?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
 </div>
